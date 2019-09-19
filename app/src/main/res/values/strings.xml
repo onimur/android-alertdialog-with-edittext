@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CustomAlertDialogWithEditText</string>
+    <string name="string_title">Your Title</string>
+    <string name="string_send">Send</string>
+    <string name="string_cancel">Cancel</string>
+    <string name="string_field">Required Field</string>
+    <string name="toast_sent">Message sent</string>
+    <string name="submit_your_comment">Submit your comment:</string>
+    <string name="comment_here">Comment here</string>
+    <string name="string_message_cancel">Message canceled</string>
+</resources>
